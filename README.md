@@ -13,8 +13,7 @@
 - Pivot tables, Power Pivot and other Excel tools were utilized to create detailed and interactive reports.
 
 ### Tools Used:
-- Excel: Advanced Excel functionalities were employed to create detailed reports, perform data analysis, and visualize the results through charts and graphs.
-
+- Excel: Advanced Excel functionalities were employed to create detailed reports and perform data analysis
 ### Key Reports Generated:
 
 - Customer Net Sales Performance: Analyzed customer sales data to assess net sales performance across different customer segments.
